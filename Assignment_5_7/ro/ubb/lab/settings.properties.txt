@@ -1,0 +1,4 @@
+repository = pickle
+students = student.pickle
+assignments = assignment.pickle
+grades = grade.pickle

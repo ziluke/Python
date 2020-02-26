@@ -1,0 +1,10 @@
+ID: 1 Name: SINZIANA Group: 1
+ID: 2 Name: MIHAI Group: 4
+ID: 3 Name: MIHAI Group: 9
+ID: 4 Name: IONUT Group: 6
+ID: 5 Name: MATEI Group: 8
+ID: 6 Name: MATEI Group: 8
+ID: 7 Name: MIHAELA Group: 8
+ID: 8 Name: ALEXANDRU Group: 6
+ID: 9 Name: ALEXANDRU Group: 6
+ID: 10 Name: MIHAI Group: 5

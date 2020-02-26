@@ -1,0 +1,10 @@
+ID: 21 Assignment ID: 2 Student ID: 1 Student Name: Sinziana Grade: 6.3
+ID: 42 Assignment ID: 4 Student ID: 2 Student Name: Mihai Grade: 2.5
+ID: 63 Assignment ID: 6 Student ID: 3 Student Name: Mihai Grade: 0.4
+ID: 84 Assignment ID: 8 Student ID: 4 Student Name: Ionut Grade: 5.3
+ID: 105 Assignment ID: 10 Student ID: 5 Student Name: Matei Grade: 9.6
+ID: 126 Assignment ID: 12 Student ID: 6 Student Name: Matei Grade: 9.9
+ID: 147 Assignment ID: 14 Student ID: 7 Student Name: Mihaela Grade: 7.9
+ID: 168 Assignment ID: 16 Student ID: 8 Student Name: Alexandru Grade: 4.1
+ID: 189 Assignment ID: 18 Student ID: 9 Student Name: Alexandru Grade: 4.7
+ID: 2010 Assignment ID: 20 Student ID: 10 Student Name: Mihai Grade: 0.7
